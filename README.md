@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ### 💻 Desarrollador Full Stack
 
+### Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona construir aplicaciones web y móviles que resuelvan problemas reales y ofrezcan experiencias excepcionales a los usuarios. Con un sólido conocimiento en tecnologías de frontend y backend, estoy siempre dispuesto a aprender nuevas herramientas y metodologías para mejorar mis habilidades y contribuir en proyectos innovadores.
+
+
 ### 🌐 Tecnologías
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
