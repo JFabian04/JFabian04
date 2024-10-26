@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona construir aplicaciones web y móviles que resuelvan problemas reales y ofrezcan experiencias excepcionales a los usuarios. Con un sólido conocimiento en tecnologías de frontend y backend, estoy siempre dispuesto a aprender nuevas herramientas y metodologías para mejorar mis habilidades y contribuir en proyectos innovadores.
 
+---
+
 
 ### 🌐 Tecnologías
 #### Frontend
