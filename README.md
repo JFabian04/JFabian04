@@ -20,42 +20,44 @@ Here are some ideas to get you started:
 
 ### 💻 Desarrollador Full Stack
 
-Soy Fabián Ramos, un desarrollador Full Stack con un enfoque creativo y orientado a resultados. Me apasiona construir aplicaciones web y móviles que resuelvan problemas reales y ofrezcan experiencias excepcionales a los usuarios. Con un sólido conocimiento en tecnologías de frontend y backend, estoy siempre dispuesto a aprender nuevas herramientas y metodologías para mejorar mis habilidades y contribuir en proyectos innovadores.
+Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona construir aplicaciones web y móviles que resuelvan problemas reales y ofrezcan experiencias excepcionales a los usuarios. Con un sólido conocimiento en tecnologías de frontend y backend, estoy siempre dispuesto a aprender nuevas herramientas y metodologías para mejorar mis habilidades y contribuir en proyectos innovadores.
 
----
+
+
+***
+
 
 ### 🌐 Tecnologías
 #### Frontend
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/JQuery-Logo.svg" alt="jQuery" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/>
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="50" height="50"/>
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logo-dark.0c1ef06e.svg" alt="TailwindCSS" width="50" height="50"/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 
 #### Backend
-<img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="50"/>
-<img src="https://spring.io/images/spring-logo.svg" alt="Spring Boot" width="50" height="50"/>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
 #### Bases de Datos
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50"/>
-<img src="https://mariadb.com/wp-content/uploads/2020/06/mariadb-logo.png" alt="MariaDB" width="50" height="50"/>
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 
 #### Aplicaciones Móviles
-<img src="https://ionicframework.com/docs/img/logos/ionic-logo.svg" alt="Ionic" width="50" height="50"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
-<img src="https://www.typescriptlang.org/assets/images/icons/ts-logo-128x128.png" alt="TypeScript" width="50" height="50"/>
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 
 #### Control de Versiones
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
-<img src="https://git-scm.com/images/logos/git-icon-1788C.png" alt="Git" width="50" height="50"/>
-<img src="https://git-scm.com/images/logos/git-bash.png" alt="Git Bash" width="50" height="50"/>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ### 💻 Sistemas Operativos
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_logo_and_wordmark.svg" alt="Windows" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tux.svg" alt="Linux" width="50" height="50"/>
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-ramos-dev)
