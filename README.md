@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona construir aplicaciones web y móviles que resuelvan problemas reales y ofrezcan experiencias excepcionales a los usuarios. Con un sólido conocimiento en tecnologías de frontend y backend, estoy siempre dispuesto a aprender nuevas herramientas y metodologías para mejorar mis habilidades y contribuir en proyectos innovadores.
 
+
+
 ***
 
 
@@ -42,6 +44,7 @@ Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona co
 
 #### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 
 #### Aplicaciones Móviles
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
@@ -50,6 +53,8 @@ Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona co
 
 #### Control de Versiones
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git_Bash-4EAA25?logo=gitbash&logoColor=white)
 
 ### 💻 Sistemas Operativos
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
