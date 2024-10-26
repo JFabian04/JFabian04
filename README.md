@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### 🌐 Encuéntrame en:
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](tu-link-de-linkedin)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/fabian-ramos-dev)
 
 ### 🚀 ¡Listo para nuevos retos y colaboraciones!
