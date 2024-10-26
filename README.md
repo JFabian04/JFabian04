@@ -54,7 +54,6 @@ Siempre mantengo un un enfoque creativo y orientado a resultados. Me apasiona co
 #### Control de Versiones
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git_Bash-4EAA25?logo=gitbash&logoColor=white)
 
 ### 💻 Sistemas Operativos
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
