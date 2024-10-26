@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/-Laravel-E74430?logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
+#### Bases de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
 #### Aplicaciones Móviles
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
